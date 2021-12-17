@@ -1,0 +1,7 @@
+api: 1.4
+type: aa
+name: SPS_OneLogin_MFA_Plugin
+version: 0.1
+description: This plugin provides MFA integration with OneLogin
+author: ferenc.sipos@oneidentity.com
+entry_point: main.py

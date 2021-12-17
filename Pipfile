@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+onelogin = "*"
+
+[dev-packages]
+onelogin = "*"
+oneidentity-safeguard-sessions-plugin-sdk = "~=1.4.0"
+
+[requires]
+python_version = "3.6"
